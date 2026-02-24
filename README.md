@@ -100,3 +100,67 @@ Current obstacles in my way:
 * [**My Scratch Archive**](./projects/README.md) | A collection of projects from before the ban.
 
 ---
+
+### 🧑‍🏫 How I Taught Myself to Code
+
+It all started with a random YouTube video showcasing Scratch 2.0 projects. When I saw that golden **"Create"** button on the Scratch website, I knew I’d found what I wanted to do: build games.
+
+#### 📜 My Evolution:
+* **The Scratch Era:** I spent years building projects, eventually becoming obsessed with Scratch Mods. I always wanted to add my own custom blocks, which laid the foundation for what would eventually become **Gvbvdxx Mod**.
+* **The Discovery:** While digging into mods, I stumbled upon **JavaScript**. Around the same time, I noticed a `.hta` file in an old *Bad Piggies* installer. I started messing with the code to see how it launched, and that curiosity spiraled into real-world programming.
+* **Present Day:** I moved from tweaking installers to building full-scale web apps and game engines for Chrome and Node.js.
+
+---
+
+
+### 🔨😾 The "Incident Report": How I got banned from Scratch
+
+#### 💬 The Gvbvdxx Chat Era (The First Bans)
+When I was first learning **Socket.io** and **Glitch.com**, I built "Gvbvdxx Chat." It was a simple relay server: whatever you sent, the server echoed to everyone. Naturally, I shared it on Scratch to get an audience.
+
+**The Technical Failures:**
+* **XSS Vulnerability:** I was using `innerHTML` instead of `textContent`. Users quickly figured out they could inject scripts and HTML to break the site or redirect people.
+* **Security Flaws:** My "IP Ban" system was entirely client-side. It just told the browser, "Hey, please don't let this guy talk," which was trivial to bypass.
+* **Moderation:** I thought I was moderating, but "User123" proved that a manual ban-hammer can't keep up with someone dedicated to breaking the rules.
+
+Because I kept sharing the link after being warned, the Scratch Team eventually handed out a permanent ban.
+
+#### 🤖 The Anonymous Commenter (The Final Ban)
+Later, I experimented with the **Scratch API** using Node.js. I built a bot that allowed users to post comments anonymously. 
+
+**The Result:**
+Since I wasn't strictly filtering what people sent through the bot, it became a tool for people to bypass Scratch's filters. The bot and my account were banned simultaneously. 
+
+**The Exit Strategy:**
+After a few attempts at new accounts, I realized the bridge was burnt. I asked the Scratch Team to delete my main account, but not before I ran a **custom Node.js backup script** I wrote to scrape and save every single shared project across my main and **all my alt accounts**. 
+
+> [!TIP]
+> These projects were succesfully restored:
+> **[Click here to view the rescued projects!](./projects/README.md)**
+
+---
+
+> [!IMPORTANT]
+> **To the Scratch Team:** We really need a way to recover *unshared* projects during a ban. Losing months of local "draft" code is a massive blow to young developers.
+
+> [!TIP]
+> **Dev Advice:** Don't just backup your main! If you use alts for testing or side-projects, make sure your scripts handle multiple usernames. If I hadn't automated the "Alt Migration," half of my history would be lost.
+
+---
+
+### 🛡️ Lessons for the Next Generation
+
+If you’re a Scratch dev pushing the boundaries of what the platform can do, learn from my "Incident Reports." Scratch doesn't care how much effort you put into a site; if it breaks their safety logic, it’s gone.
+
+**My "Hard-Way" Recommendations:**
+
+* **Unmoderated Chat:** **DON'T POST.** Even if you have manual bans, if there’s no pre-approval or heavy filtering, they will see it as a liability.
+* **Cloud Chat:** Unless it's a "Safe Word List" (Whitelist) type app, **DON'T POST.** Pure open-text cloud chat is an instant ban magnet.
+* **API Experiments:** **DON'T POST.** Any tool that allows posting without approval first is a trap—you can (and will) be framed for what other users say.
+* **YouTube Links:** Use extreme caution. If your channel features any of the "Forbidden 4" (unmoderated chats, 13+ links, etc.), **DON'T POST IT.** * **Custom Rulesets:** **DON'T POST.** If your site’s rules are even slightly more relaxed than Scratch’s, they’ll consider it a safety risk.
+* **13+ Platform Links:** **DON'T POST.** Discord or anything 13+ is an instant strike. Scratch is strictly for all ages.
+
+---
+
+> [!CAUTION]
+> **The Bottom Line:** Don't let your hard work get deleted. If you want to build something "raw" or 13+, host it on GitHub or Render and keep it completely separate from your Scratch profile.
