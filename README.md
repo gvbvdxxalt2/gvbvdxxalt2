@@ -24,10 +24,16 @@ The name came from me hitting the keyboard during the Scratch sign-up screen as 
 
 ### 📡 Current Status
 - **Age:** 15 🎈
-- **Grounded** 😞 (Coding my way back to the light).
-- **Current Setup:** School Chromebook 💻 (Shoutout to the school gamers/devs!)
-- **Strict parents** 🛡️ (They take the computers, but they can't take the Chromebook!)
-- **Banned from Scratch** 🔨😾 (The Scratch Team and I don't exactly get along).
+- **Current Vibe:** Grounded 😞 (Using the time to focus 100% on code).
+- **The Setup:** School Chromebook 💻 (The one device parents can't touch! Shoutout to the school-hours dev squad).
+- **Scratch Status:** Banned 🔨😾 (Check the bottom for the "Incident Report").
+- **Hardware Note:** Currently limited to web-based dev. I'm still deep into the modding scene, but those projects are on standby until I have my desktop/laptop back!
+
+---
+
+### 🛠️ Hardware & Tools
+* **Desktop/Laptop (Main):** Used for heavy modding, Electron builds, and C++ experiments.
+* **Chromebook (Current):** My mobile "hacking" station. I use it for pure JS development and managing my web-based projects while away from my PC.
 
 ---
 
@@ -47,11 +53,25 @@ The name came from me hitting the keyboard during the Scratch sign-up screen as 
 
 ---
 
+### 💻 Tech & Hardware
+- **Favorite Brand:** **HP** 🖥️
+- **The Desktop Advantage:** I prefer desktops over laptops because of the "spill factor." If I spill water on a desktop keyboard, I just replace the keyboard. If I spill it on a laptop, the whole thing is toast!
+- **Hardware Lore:** I once spilled water on a Dell laptop. It started beeping uncontrollably for me, but weirdly worked fine whenever my dad turned it on (**"Dad Magic"**). I eventually had to pull the battery to stop the noise!
+- **Stack:** JavaScript (Node.js), HTML/CSS, XML, Roblox Lua, Electron JS.
+
+---
+
 ### 🧠 A bit about me
 *Note: These aren't official diagnoses yet, but they are based on what my doctor has discussed with me.*
 
 - **Autism?** (Likely 🧠)
 - **ADHD** (Definitely 🤪)
+
+#### 🧠 My Dev Process: The "Mental Sandbox"
+When I’m away from my PC, I move the workspace into my head. 
+- **The Method:** Give me a few hours in an empty room to walk around, and I’ll "simulate" a new feature or logic system.
+- **The Reality Check:** It’s a bit of a gamble. Sometimes the idea works perfectly when I finally type it out; other times, I realize my "simple" idea actually needs a billion lines of code and I end up suffering through the implementation!
+- **The Result:** Even if the code ends up being a nightmare, the "Mental Sandbox" is where the most creative breakthroughs happen.
 
 ---
 
@@ -106,9 +126,10 @@ Current obstacles in my way:
 It all started with a random YouTube video showcasing Scratch 2.0 projects. When I saw that golden **"Create"** button on the Scratch website, I knew I’d found what I wanted to do: build games.
 
 #### 📜 My Evolution:
-* **The Scratch Era:** I spent years building projects, eventually becoming obsessed with Scratch Mods. I always wanted to add my own custom blocks, which laid the foundation for what would eventually become **Gvbvdxx Mod**.
-* **The Discovery:** While digging into mods, I stumbled upon **JavaScript**. Around the same time, I noticed a `.hta` file in an old *Bad Piggies* installer. I started messing with the code to see how it launched, and that curiosity spiraled into real-world programming.
-* **Present Day:** I moved from tweaking installers to building full-scale web apps and game engines for Chrome and Node.js.
+* **The Scratch 2.0 Era:** I started like everyone else, building games in the standard editor. But I wanted more power.
+* **The "Hardware & HTA" Parallel:** While I was on Scratch, I discovered **ScratchX** and **HTA** files (found in an old *Bad Piggies* installer) at the same time. This was my "lightbulb moment"—realizing that HTML and JS could be used to build real apps and extend Scratch's capabilities.
+* **The 3.0 Mod Explosion:** When Scratch 3.0 launched, I started hunting for 3.0-based mods. This obsession with custom blocks and engines led to the creation of **Gvbvdxx Mod**.
+* **Present Day:** I’ve moved from exploring mods to building them. I now create full-scale web apps and specialized JS physics engines.
 
 ---
 
@@ -157,8 +178,11 @@ If you’re a Scratch dev pushing the boundaries of what the platform can do, le
 * **Unmoderated Chat:** **DON'T POST.** Even if you have manual bans, if there’s no pre-approval or heavy filtering, they will see it as a liability.
 * **Cloud Chat:** Unless it's a "Safe Word List" (Whitelist) type app, **DON'T POST.** Pure open-text cloud chat is an instant ban magnet.
 * **API Experiments:** **DON'T POST.** Any tool that allows posting without approval first is a trap—you can (and will) be framed for what other users say.
-* **YouTube Links:** Use extreme caution. If your channel features any of the "Forbidden 4" (unmoderated chats, 13+ links, etc.), **DON'T POST IT.** * **Custom Rulesets:** **DON'T POST.** If your site’s rules are even slightly more relaxed than Scratch’s, they’ll consider it a safety risk.
-* **13+ Platform Links:** **DON'T POST.** Discord or anything 13+ is an instant strike. Scratch is strictly for all ages.
+* **YouTube Links:** Use extreme caution. If a channel features any of the stuff mentioned here (including my own!), **DON'T POST IT.** The Scratch Team may follow the link and find a reason to strike you.
+* **Custom Rulesets:** **DON'T POST.** If your site’s rules are even slightly more relaxed than Scratch’s, they’ll consider it a safety risk.
+* **13+ Platform Links:** **DON'T POST.** Discord or anything 13+ is an instant strike.
+* **Don't Trust the "Honor System":** Never assume users won't report you just because you ask them not to. Saying "Don't report this" is actually a huge red flag that usually makes people report even faster.
+* **The "Gvbvdxx" Name:** Honestly? Just be careful. Because of my history, naming your project "Chat by Gvbvdxx" or referencing my apps by name might get your project flagged manually.
 
 ---
 
