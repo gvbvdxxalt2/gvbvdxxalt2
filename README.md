@@ -5,7 +5,8 @@ I make sites. Pretty much it.
 
 | [My YouTube 📺](https://youtube.com/@gvbvdxx) | [My Itch.io 🎮](https://gvbvdxx.itch.io) | [My Discord 💬](http://discord.com/users/1160668172228247623) |
 
-**Gender:** Male 🙍‍♂️
+**Gender:** Male 🙍‍♂️  
+**Birthday:** September 30th (2010) 🎂
 
 > [!TIP]
 > I'm also on [**Kosmi**](https://app.kosmi.io). Look for `gvbvdxx`—I have a few older/unused accounts, so feel free to friend whichever ones pop up!
@@ -19,6 +20,7 @@ The name came from me hitting the keyboard during the Scratch sign-up screen as 
 ---
 
 ### 📡 Current Status
+- **Age:** 15 🎈
 - **Grounded** 😞 (Coding my way back to the light).
 - **Current Setup:** School Chromebook 💻 (Shoutout to the school gamers/devs!)
 - **Strict parents** 🛡️ (They take the computers, but they can't take the Chromebook!)
@@ -28,10 +30,13 @@ The name came from me hitting the keyboard during the Scratch sign-up screen as 
 
 ### 💻 My Tech Stack
 - **JavaScript** (Including Node.js)
-- **HTML & CSS**
-- **XML**
+- **HTML & CSS** / **XML**
 - **Electron JS** ⚛️ (My shortcut for desktop apps because C++ is a headache).
-- **Roblox Lua** (I know enough to be dangerous, but barely).
+- **Roblox Lua** (I know enough to be dangerous).
+
+#### 🌐 Networking & Backend
+- **Protocols:** `WebSockets` & `HTTP` (I prefer the native `http` module over Express—keep it raw!)
+- **P2P:** [`simple-peer WebRTC`](https://github.com/feross/simple-peer)
 
 > [!NOTE]
 > I lean on [Google Gemini](https://gemini.google.com) to help me troubleshoot or ask questions when I'm confused. 
@@ -40,7 +45,7 @@ The name came from me hitting the keyboard during the Scratch sign-up screen as 
 ---
 
 ### 🧠 A bit about me
-*Note: These aren't official diagnoses yet, but they are potential based on what my doctor has discussed with me.*
+*Note: These aren't official diagnoses yet, but they are based on what my doctor has discussed with me.*
 
 - **Autism?** (Likely 🧠)
 - **ADHD** (Definitely 🤪)
@@ -66,8 +71,8 @@ Currently struggling with the standard subjects, but I’m **acing coding**! Sad
 
 ### 🛡️ The "Bosses" (School Filters)
 Current obstacles in my way:
-* **Cisco Umbrella** (DNS/Internet level)
-* **Lightspeed Filter Agent** (Chromebook extension — HATE this one! 😠)
+* **Cisco Umbrella ☂** (DNS/Internet level)
+* **Lightspeed Filter Agent 🛑** (Chromebook extension — HATE this one! 😠)
 * **Lightspeed Insight Agent 🕵️** (The one that's always watching...)
 
 ---
@@ -85,7 +90,7 @@ Current obstacles in my way:
 
 #### 🕹️ Games & Engines
 * [**Sonic Robo Blast 2 Web**](https://gvbvdxxalt2.github.io/SRB2web/) | A port of SRB2 2.2.15 running via **Emscripten**. Features LAN support with **no port forwarding**!
-* [**🦔 Gvbvdxx Sonic Engine**](https://github.com/gvbvdxx/gvbsonic) | A classic Sonic physics engine made in pure JS. Features 360° movement and wall-running—the "pro" version of my old Scratch engine. Also can support mods, similar to the "Addon feature" in SRB2. So you don't have to go digging into the source code of the game to add a simple level and stuff.
+* [**🦔 Gvbvdxx Sonic Engine**](https://github.com/gvbvdxx/gvbsonic) | A classic Sonic physics engine made in pure JS. Features 360° movement, wall-running, and **Mod Support** (Addons) similar to SRB2—no digging into source code required.
 * [**🎤 FNF vs Gvbvdxx**](https://github.com/gvbvdxx/FNFVsGvbvdxxEngine) | Friday Night Funkin' mod featuring custom covers and friends from the Scratch days. (Untangling the source code currently).
 
 ---
