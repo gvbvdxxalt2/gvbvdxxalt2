@@ -8,7 +8,10 @@
 
 ### 🚪 The Exit Strategy: Why I Didn't Go Anonymous
 After the ban, I tried making new, anonymous accounts to keep coding. But because I have years of experience, I knew my projects would get popular again. 
-I quickly realized something weird: **if this "fake" persona got famous, I would end up being jealous of *myself*.** I hated living as two different people and lying about who I was. Instead of keeping up the act, I decided to take a clean break and **actually asked the Scratch Team to delete my main account.** ### 💾 The Great Rescue
+I quickly realized something weird: **if this "fake" persona got famous, I would end up being jealous of *myself*.** I hated living as two different people and lying about who I was. Instead of keeping up the act, I decided to take a clean break and **actually asked the Scratch Team to delete my main account.**
+
+### 💾 The Great Rescue
+
 Before I sent that final deletion request, I ran a **custom Node.js scraping script** I wrote to back up every single shared project. 
 * **[View the rescued projects here!](./projects/README.md)**
 
