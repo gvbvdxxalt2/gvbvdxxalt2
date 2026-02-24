@@ -1,25 +1,22 @@
 # 🧑🏻‍💻 Welcome to my profile!
 
-I make apps & sites. Pretty much it.  
-**Self-taught programmer. 🧠🧑🏻‍💻**
+I'm a **self-taught programmer** specializing in web-based engines, P2P networking, and modding. I build things that bypass limitations.
 
 | [YouTube 📺](https://youtube.com/@gvbvdxx) | [Itch.io 🎮](https://gvbvdxx.itch.io) | [Discord 💬](http://discord.com/users/1160668172228247623) |
 | :--- | :--- | :--- |
 
-### 🔗 Quick Links
-| [💾 Portfolio](./PROJECTS.md) | [📜 My Story](./HISTORY.md) | [🔨 Ban Report](./SCRATCH_HISTORY.md) |
-| :--- | :--- | :--- |
+### 🔗 Deep Dive
+- [💾 **Full Portfolio**](./PROJECTS.md) - Engines, ports, and chat apps.
+- [📜 **Hardware & History**](./HISTORY.md) - The "Mental Sandbox" and the quest for my lost gear.
+- [🔨 **The Scratch Archive**](./SCRATCH_HISTORY.md) - Why I was banned and how I saved my code.
 
 ---
 
-### 👋 Call me: `Gvbvdxx`
-**Gender:** Male 🙍‍♂️ | **Age:** 15 🎈 | **Birthday:** Sept 30 🎂  
-**Current Vibe:** Grounded 😞 (Focusing 100% on code).  
-**The Setup:** School Chromebook 💻 (The "un-groundable" device).
-
-### 💻 My Tech Stack
-- **Languages:** JavaScript (Node.js), HTML/CSS, XML, Roblox Lua, Haxe.
-- **Tools:** Electron JS, native `http` modules, `simple-peer` WebRTC.
+### 👋 The Basics
+- **Call me:** `Gvbvdxx` (or Jason).
+- **Current Status:** Grounded 😞. Developing exclusively on a **School Chromebook** 💻.
+- **Tech Stack:** - **Languages:** JavaScript (Node.js), HTML/CSS, XML, Haxe, Roblox Lua.
+    - **Networking:** `WebSockets`, `HTTP` (Native module > Express), and `simple-peer` WebRTC.
 
 > [!NOTE]
-> I use **Google Gemini** for troubleshooting. If the code looks AI-enhanced, that's why!
+> I use **Google Gemini** for troubleshooting and brainstorming. If my documentation feels polished, that's my AI collaborator at work!
