@@ -1,12 +1,15 @@
 ## 🧑🏻‍💻 Welcome to my profile!
 
 I make sites. Pretty much it.  
-**Self-taught programmer. 🧠**
+**Self-taught programmer. 🧠🧑🏻‍💻**
 
 | [My YouTube 📺](https://youtube.com/@gvbvdxx) | [My Itch.io 🎮](https://gvbvdxx.itch.io) | [My Discord 💬](http://discord.com/users/1160668172228247623) |
+| :--- | :--- | :--- |
+| [JasonGlenEvans (Old) 💻](https://github.com/jasonglenevans/) | [Gvbvdxx (Legacy) 💻](https://github.com/gvbvdxx/) | [Current GitHub 🚀](#) |
 
 **Gender:** Male 🙍‍♂️  
-**Birthday:** September 30th (2010) 🎂
+**Birthday:** September 30th (2010) 🎂  
+**Coding Since:** ~Oct 2021 (My first site launch!) 📅
 
 > [!TIP]
 > I'm also on [**Kosmi**](https://app.kosmi.io). Look for `gvbvdxx`—I have a few older/unused accounts, so feel free to friend whichever ones pop up!
