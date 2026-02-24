@@ -1,15 +1,18 @@
-## 📜 The Gvbvdxx Timeline
+## 📜 The Gvbvdxx Chronicle
 
-* **2021-2022 (The Dad Era):** Received my first desktop. Spent a "Pizza Summer" coding through the loss of my dad.
-* **The Dark Era:** Uncle moved in. Devices locked away.
-* **The 32-bit Era:** Used my grandma's slow laptop to stay in the game.
-* **The Birthday Era (Age 13-14):** New Windows 11 Laptop & Desktop. Moved to Native Haxe.
-* **The Now:** Back on the Chromebook while the main rigs are in "lockup."
+### 🛠️ The Hardware Timeline
+1. **The Dad Era (2021-2022):** My first desktop, a gift from my dad. It's where I spent the summer of 2022 coding through grief with pizza and SRB2.
+2. **The 32-bit Survival:** When my gear was first locked away, I survived on my grandma's **32-bit laptop**. I even found obscure 32-bit builds of Psych Engine just to keep modding.
+3. **The "Plane Fan" Era:** My $600 Windows 11 laptop. It has an AMD chip that runs so hot it burns my fingers during long Haxe sessions. It sounds like a jet taking off just running Chrome and Kosmi.
+4. **The Attic Breach:** I recently "liberated" my laptop from the attic to finish the **Editorial V1 FLP**, only to lose the MicroSD during a follow-up grounding.
 
-### 📉 Technical Hurdles & Lost Media
-* **The Attic Breach:** Snatched my laptop back to edit the **Editorial V1 FLP**, saved it to MicroSD, then lost the card. **Oof.**
-* **The Kill Switch:** My uncle uses the Spectrum app to pause my MAC address. This is why I build **P2P apps**.
-* **Thermal Limits:** My $600 laptop runs so hot it burns my fingers. I’m a **Desktop Main** for life now.
+### 📉 The "Kill Switch" & Networking
+My uncle uses the **Spectrum App** to pause my internet access. When he flips the switch, it feels like a total outage. 
+* **The Counter-Move:** This inspired my obsession with **P2P/WebRTC**. If I build apps that don't need a central server or a router's permission to talk, the "Kill Switch" loses its power.
+
+### 🧠 The Mental Sandbox
+When I'm grounded or away from my PC, I walk in circles in an empty room and "simulate" code logic. 
+* **The Reality:** Sometimes the mental build is perfect. Other times, the "simple" logic turns into a billion-line nightmare that makes my Chromebook suffer.
 
 ---
 [**⬅️ Back to profile**](./README.md)
