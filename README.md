@@ -7,9 +7,8 @@ I make apps & sites. Pretty much it.
 | :--- | :--- | :--- |
 
 ### 🔗 Quick Links
-- [💾 **Project Portfolio**](./PROJECTS.md) - What I've built.
-- [📜 **My Story & Hardware**](./HISTORY.md) - The timeline and the "Mental Sandbox."
-- [🔨 **The Scratch Incident Report**](./SCRATCH_HISTORY.md) - Lessons learned from the ban.
+| [💾 Portfolio](./PROJECTS.md) | [📜 My Story](./HISTORY.md) | [🔨 Ban Report](./SCRATCH_HISTORY.md) |
+| :--- | :--- | :--- |
 
 ---
 
