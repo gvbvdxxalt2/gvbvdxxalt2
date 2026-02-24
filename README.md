@@ -5,23 +5,23 @@ I make sites. Pretty much it.
 
 | [My YouTube 📺](https://youtube.com/@gvbvdxx) | [My Itch.io 🎮](https://gvbvdxx.itch.io) | [My Discord 💬](http://discord.com/users/1160668172228247623) |
 
-> [!TIP]
-> I'm also on **Kosmi**. Look for `gvbvdxx`—I have a few older/unused accounts, so feel free to friend whichever ones pop up!
+**Gender:** Male 🙍‍♂️
 
-Gender: Male 🙍
+> [!TIP]
+> I'm also on [**Kosmi**](https://app.kosmi.io). Look for `gvbvdxx`—I have a few older/unused accounts, so feel free to friend whichever ones pop up!
 
 ---
 
 ### 👋 Call me: `Gvbvdxx`
 (Or **Jason** if that's easier).  
-The name is just a result of "kid-me" smashing the keyboard, in case you were wondering.
+The name came from me hitting the keyboard during the Scratch sign-up screen as a kid—it just stuck!
 
 ---
 
 ### 📡 Current Status
 - **Grounded** 😞 (Coding my way back to the light).
 - **Current Setup:** School Chromebook 💻 (Shoutout to the school gamers/devs!)
-- **Strict parents** 🛡️
+- **Strict parents** 🛡️ (They take the computers, but they can't take the Chromebook!)
 - **Banned from Scratch** 🔨😾 (The Scratch Team and I don't exactly get along).
 
 ---
@@ -77,14 +77,15 @@ Current obstacles in my way:
 
 #### 💬 Chat Apps
 * **[Random Rants +](https://randomrants-plus.onrender.com/)** | The go-to chat site for escaping boredom at school.
-* [**Random Rants (Legacy)**](https://github.com/Random-Rants-Chat/randomrants) | The original version—kept here for history and ownership.
+* [**Legacy Chats (Gvbvdxx Chat, Macre's, etc.)**](http://github.com/gvbvdxx-chat-safe/) | These played a big role in my Scratch history. **Warning:** These use `innerHTML` for messages—don't paste HTML unless you know exactly what it does! [(Try the Live Safe versions)](https://gvbvdxx-chat-safe.github.io/)
 
 #### 🛠️ Game Design Tools
-* [**Gvbvdxx Game Maker 3**](https://ggm3-y1xs.onrender.com/) | A Scratch-like alternative to TurboWarp.
-* **Gvbvdxx Mod 2** | A TurboWarp modification. (Update pending: Source code is a bit messy right now due to the grounding).
+* [**Gvbvdxx Game Maker 3**](https://ggm3-y1xs.onrender.com/) | A Scratch-like alternative to TurboWarp and my previous Mod2.
+* [**Gvbvdxx Mod 2**](https://github.com/gvbmod/) | A TurboWarp modification. (Update pending: Source code is a bit messy right now due to the grounding).
 
-#### 🕹️ Games
-* [**Sonic Robo Blast 2 Web**](https://gvbvdxxalt2.github.io/SRB2web/) | A port of SRB2 2.2.15 running via **Emscripten**. Features LAN support with **no port forwarding**! Plays right in the browser.
-* [**🎤 FNF vs Gvbvdxx**](https://github.com/gvbvdxx/FNFVsGvbvdxxEngine) | A Friday Night Funkin' mod featuring people I met on Scratch. Includes custom covers—it's a passion project! (Source code currently being untangled).
+#### 🕹️ Games & Engines
+* [**Sonic Robo Blast 2 Web**](https://gvbvdxxalt2.github.io/SRB2web/) | A port of SRB2 2.2.15 running via **Emscripten**. Features LAN support with **no port forwarding**!
+* [**🦔 Gvbvdxx Sonic Engine**](https://github.com/gvbvdxx/gvbsonic) | A classic Sonic physics engine made in pure JS. Features 360° movement and wall-running—the "pro" version of my old Scratch engine. Also can support mods, similar to the "Addon feature" in SRB2. So you don't have to go digging into the source code of the game to add a simple level and stuff.
+* [**🎤 FNF vs Gvbvdxx**](https://github.com/gvbvdxx/FNFVsGvbvdxxEngine) | Friday Night Funkin' mod featuring custom covers and friends from the Scratch days. (Untangling the source code currently).
 
 ---
