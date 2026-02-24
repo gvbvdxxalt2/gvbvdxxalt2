@@ -1,6 +1,6 @@
 ## 🧑🏻‍💻 Welcome to my profile!
 
-I make sites. Pretty much it.  
+I make apps & sites. Pretty much it.  
 **Self-taught programmer. 🧠🧑🏻‍💻**
 
 | [My YouTube 📺](https://youtube.com/@gvbvdxx) | [My Itch.io 🎮](https://gvbvdxx.itch.io) | [My Discord 💬](http://discord.com/users/1160668172228247623) |
@@ -96,7 +96,7 @@ Current obstacles in my way:
 * [**🦔 Gvbvdxx Sonic Engine**](https://github.com/gvbvdxx/gvbsonic) | A classic Sonic physics engine made in pure JS. Features 360° movement, wall-running, and **Mod Support** (Addons) similar to SRB2—no digging into source code required.
 * [**🎤 FNF vs Gvbvdxx**](https://github.com/gvbvdxx/FNFVsGvbvdxxEngine) | Friday Night Funkin' mod featuring custom covers and friends from the Scratch days. (Untangling the source code currently).
 
-#### 🐱 Scratch Projects
-[Click here to view them](./projects/README.md)
+#### 🐱 Scratch History
+* [**My Scratch Archive**](./projects/README.md) | A collection of projects from before the ban.
 
 ---
