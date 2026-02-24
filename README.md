@@ -6,17 +6,16 @@ I'm a **self-taught programmer** specializing in web-based engines, P2P networki
 | :--- | :--- | :--- |
 
 ### 🔗 Deep Dive
-- [💾 **Full Portfolio**](./PROJECTS.md) - Engines, ports, and chat apps.
+- [💾 **Full Portfolio**](./PROJECTS.md) - True 360 engines, ports, and chat apps.
 - [📜 **Hardware & History**](./HISTORY.md) - The "Mental Sandbox" and the quest for my lost gear.
-- [🔨 **The Scratch Archive**](./SCRATCH_HISTORY.md) - Why I was banned and how I saved my code.
-
----
+- [🔨 **The Scratch Archive**](./SCRATCH_HISTORY.md) - Why I left, the ban story, and how I saved my code.
 
 ### 👋 The Basics
 - **Call me:** `Gvbvdxx` (or Jason).
 - **Current Status:** Grounded 😞. Developing exclusively on a **School Chromebook** 💻.
 - **Tech Stack:** - **Languages:** JavaScript (Node.js), HTML/CSS, XML, Haxe, Roblox Lua.
-    - **Networking:** `WebSockets`, `HTTP` (Native module > Express), and `simple-peer` WebRTC.
+    - **Networking:** `WebSockets`, `HTTP`, and `simple-peer` WebRTC.
+    - **Specialty:** Classic Sonic Physics Architecture (Pixel-sensing & 360° slope math).
 
 > [!NOTE]
 > I use **Google Gemini** for troubleshooting and brainstorming. If my documentation feels polished, that's my AI collaborator at work!
