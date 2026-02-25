@@ -4,7 +4,7 @@
 1. **The Dad Era (2021-2022):** My first desktop, a gift from my dad. It's where I spent the summer of 2022 coding through grief with pizza and SRB2.
 2. **The 32-bit Survival:** When my gear was first locked away, I survived on my grandma's **32-bit laptop**. I even found obscure 32-bit builds of Psych Engine just to keep modding.
 3. **The "Plane Fan" Era:** My $600 Windows 11 laptop. It has an AMD chip that runs so hot it burns my fingers during long Haxe sessions. 
-4. **The Attic Breach:** I recently "liberated" my laptop from the attic to finish the **Editorial V1 FLP**, only to lose the MicroSD during a follow-up grounding.
+4. **The Attic Breach:** I recently "liberated" my laptop from the attic to finish the **Editorial V1** cover for [**Im_CatmanYT**](https://scratch.mit.edu/users/Im_CatmanYT), only to lose the MicroSD during a follow-up grounding.
 
 ### 📉 The Router Wars & Networking
 My uncle uses the **Spectrum App** as a "Kill Switch" to pause my MAC address. 
