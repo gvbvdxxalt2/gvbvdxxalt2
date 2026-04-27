@@ -2,8 +2,8 @@
 
 I'm a **self-taught programmer** specializing in web-based engines, P2P networking, and modding. I build things that bypass limitations.
 
-| [YouTube 📺](https://youtube.com/@gvbvdxx) | [Itch.io 🎮](https://gvbvdxx.itch.io) | [Discord 💬](http://discord.com/users/1160668172228247623) |
-| :--- | :--- | :--- |
+| [YouTube 📺](https://youtube.com/@gvbvdxx) | [Itch.io 🎮](https://gvbvdxx.itch.io) | [Discord 💬](http://discord.com/users/1160668172228247623) | [🌐 My Domain](https://gvbvdxx.me) |
+| :--- | :--- | :--- | :--- |
 
 ### 🔗 Deep Dive
 - [💾 **Full Portfolio**](./PROJECTS.md) - True 360 engines, ports, and chat apps.
